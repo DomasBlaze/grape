@@ -1,0 +1,6 @@
+ /* Domas */
+#chat-messages .id-4049810 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/admin.png');
+        background-size:        cover;
+}
