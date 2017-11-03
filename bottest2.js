@@ -1,11 +1,3 @@
-/**
-
- Copyright © 2014-2017 basicBot
-
- Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
- This software is not for profit, any extension, or unauthorised person providing this software is not authorised to be in a position of any monetary gain from this use of this software. Any and all money gained under the use of the software (which includes donations) must be passed on to the original author.
- 
- */
 
 (function () {
     
@@ -129,7 +121,7 @@
      alert('Slaptažodis teisingas!');
     else
       {
-      window.location='https://plug.dj/uz-lietuva-';
+      window.location='https://plug.dj/%C5%A1iltas-kampelis';
       };
 */
     
@@ -362,15 +354,15 @@
             afkRankCheck: 'ambassador',
             motdEnabled: true,
             motdInterval: 7,
-            motd: 'Čia „Už Lietuvą“ Discord pokalbiai prieinami visiems! - https://discord.gg/KVmKREV // Iškritai iš DJ eilės? Rašyk !dc sugrįžimui. ',
+            motd: 'Čia „Siltas kampelis“ Discord pokalbiai prieinami visiems! - https://discord.gg/5wgCjmR // Iškritai iš DJ eilės? Rašyk !dc sugrįžimui. ',
             filterChat: true,
             etaRestriction: true,
             welcome: true,
             opLink: 'https://goo.gl/ZnUm7l',
             rulesLink: 'https://goo.gl/lb4uCj',
             themeLink: null,
-            fbLink: 'https://www.fb.me/Astromaniakas/',
-            discordLink: 'https://discord.gg/KVmKREV',
+            fbLink: '',
+            discordLink: 'https://discord.gg/5wgCjmR',
             twitter: null,
             intervalMessages: ['@staff Visi prisijungę administratoriai taip pat ir RDJ turi būti prisijungę ir DISCORD programoje Discord: https://goo.gl/3GL7QT'],
             messageInterval: 4,
@@ -383,7 +375,7 @@
             }
         },
         room: {
-            name: "Už Lietuvą",
+            name: "Siltas Kampelis",
             chatMessages: [],
             users: [],
             afkList: [],
